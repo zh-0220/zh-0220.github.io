@@ -1,5 +1,4 @@
 # 國立中正大學115學年度特選才-汪子恒加班費計算系統
-國立中正大學115學年度特殊選材-汪子恒加班費計算網頁
 import React, { useMemo, useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
